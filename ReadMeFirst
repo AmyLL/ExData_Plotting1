@@ -1,0 +1,5 @@
+## R Code for reading power consumption data and generating plots
+
+1. The code readSubset.R provides the code for reading in the original dataset, transforming the date column to an R Date variable and subsetting this data set to the rows containing the dates used for the plotting exercises. This subset is saved in a new *.csv file which is used to create each plot, minimizing the amount of data used for the plotting exercises.
+
+2. There are 4 plot.R codes for each plot and 4 plots corresponding to the output of these codes.
